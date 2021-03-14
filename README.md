@@ -20,3 +20,10 @@ The main aim would be to prepare for **KICKSTART** , **ICPC** and **CODEJAM**.
 4. D - Shipping Center [https://atcoder.jp/contests/abc195/tasks/abc195_d]
 5. A - Alexey and Train [https://codeforces.com/contest/1501/problem/A]
 6. B - Napolean Cake [https://codeforces.com/contest/1501/problem/B]
+
+**Day04**
+
+1. Check if One string swap can make string equal [https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/]
+2. Find Center of Star Graph [https://leetcode.com/problems/find-center-of-star-graph/]
+3. Maximum Average Pass Ratio [https://leetcode.com/problems/maximum-average-pass-ratio/]
+4. Maximum Score of Good Array [https://leetcode.com/problems/maximum-score-of-a-good-subarray/]
