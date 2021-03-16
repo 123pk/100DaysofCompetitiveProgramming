@@ -1,4 +1,8 @@
-
+/*
+Platform :- Codechef
+Problem :- IRSTXOR
+Contest :- Codechef Long March Challenge
+*/
 #include<bits/stdc++.h>
 using namespace std;
 
