@@ -1,6 +1,6 @@
 /*
 Platform :- Codechef
-Problem :- SPACEARR
+Problem :- SPACEARR ( SPACE ARRAY)
 Contest :- January Long Challenge
 Hint :- Sort the array check if it possible to make array to permutaion ..if yes then find minimum number of operations required for changing it to permutation 
 */
