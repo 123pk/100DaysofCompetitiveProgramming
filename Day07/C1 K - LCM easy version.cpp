@@ -1,6 +1,6 @@
 /*
 Platform :- Codeforces
-Problem :- K - LCM easy version
+Problem :- C1 K - LCM easy version
 Contest :- Codeforces Round 708 Div 2
 */
 #include<bits/stdc++.h>
