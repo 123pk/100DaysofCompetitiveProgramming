@@ -38,8 +38,11 @@ The main aim would be to prepare for **KICKSTART** , **ICPC** and **CODEJAM**.
 
 **Day07**
 
-1. Domino and Windowill [https://codeforces.com/contest/1499/problem/A]
+1. A - Meximization [https://codeforces.com/contest/1497/problem/A]
+2. B - M Arrays [https://codeforces.com/contest/1497/problem/B]
+3. C1 - K lcm easy versrion [https://codeforces.com/contest/1497/problem/C1]
+4. C2 - K lcm hard version [https://codeforces.com/contest/1497/problem/C2]
 
 **Day08**
 
-1. 
+1.  Domino and Windowill [https://codeforces.com/contest/1499/problem/A]
