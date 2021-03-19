@@ -27,3 +27,19 @@ The main aim would be to prepare for **KICKSTART** , **ICPC** and **CODEJAM**.
 2. Find Center of Star Graph [https://leetcode.com/problems/find-center-of-star-graph/]
 3. Maximum Average Pass Ratio [https://leetcode.com/problems/maximum-average-pass-ratio/]
 4. Maximum Score of Good Array [https://leetcode.com/problems/maximum-score-of-a-good-subarray/]
+
+**Day05**
+
+1. SPACEARR [ https://www.codechef.com/MARCH21B/problems/SPACEARR]
+
+**Day06**
+
+1. IRSTXOR [ https://www.codechef.com/MARCH21B/problems/IRSTXOR]
+
+**Day07**
+
+1. Domino and Windowill [https://codeforces.com/contest/1499/problem/A]
+
+**Day08**
+
+1. 
