@@ -25,7 +25,6 @@ public:
                 P.pop();
                 if(visited[x])continue;
                 for(int j=0;j<rooms[x].size();++j){
-                    //cout<<(rooms[x][j])<<" "<<endl;
                     if(visited[rooms[x][j]])continue;
                     P.push(rooms[x][j]);
                 }
