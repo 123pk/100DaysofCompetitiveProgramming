@@ -46,3 +46,11 @@ The main aim would be to prepare for **KICKSTART** , **ICPC** and **CODEJAM**.
 **Day08**
 
 1.  Domino and Windowill [https://codeforces.com/contest/1499/problem/A]
+
+**Day09**
+
+1. Keys and Rooms [https://leetcode.com/explore/challenge/card/march-leetcoding-challenge-2021/590/week-3-march-15th-march-21st/3677/]
+
+**Day10**
+
+1.
