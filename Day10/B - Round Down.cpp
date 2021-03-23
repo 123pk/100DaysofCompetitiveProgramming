@@ -1,7 +1,7 @@
 /*
-Platform :- Leetcode
+Platform :- Atcoder
 Problem :- B - Round Down
-Contest :- Bi Weekly contest 48
+Contest :- Atcoder Beginner Contest 196
 */
 
 #include<bits/stdc++.h>
