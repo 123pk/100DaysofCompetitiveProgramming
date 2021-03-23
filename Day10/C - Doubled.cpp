@@ -1,7 +1,7 @@
 /*
-Platform :- Leetcode
+Platform :- Atcoder
 Problem :- C - Doubled
-Contest :- Bi Weekly Contest 48
+Contest :- Atcoder Beginner Contest 196
 */
 
 #include<bits/stdc++.h>
