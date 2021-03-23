@@ -1,7 +1,7 @@
 /*
-Platform :- Leetcode
+Platform :- Atcoder
 Problem :- A - Difference Max
-Contest :- Bi Weekly Contest 48
+Contest :- Atcoder Beginner Contest 196
 */
 #include<bits/stdc++.h>
 using namespace std;
