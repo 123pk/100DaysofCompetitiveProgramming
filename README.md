@@ -53,4 +53,8 @@ The main aim would be to prepare for **KICKSTART** , **ICPC** and **CODEJAM**.
 
 **Day10**
 
-1.
+1. Design Authentication Manager [https://leetcode.com/problems/design-authentication-manager/]
+2. Second Largest Digit in string [https://leetcode.com/contest/biweekly-contest-48/problems/second-largest-digit-in-a-string/]
+3. A - Difference max [https://atcoder.jp/contests/abc196/tasks/abc196_a]
+4. B - Round Down [https://atcoder.jp/contests/abc196/tasks/abc196_b]
+5. C - Doubled [https://atcoder.jp/contests/abc196/tasks/abc196_c]
