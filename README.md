@@ -66,3 +66,9 @@ The main aim would be to prepare for **KICKSTART** , **ICPC** and **CODEJAM**.
 3. Maximum Ascending Subarray Sum [https://leetcode.com/contest/weekly-contest-233]
 4. Number of Orders in backlog [https://leetcode.com/contest/weekly-contest-233]
 
+**Day12**
+
+1. CONDEL [https://www.codechef.com/COOK127B]
+2. MATXOR [https://www.codechef.com/COOK127B]
+3. GUESSIT[https://www.codechef.com/COOK127B]
+4. Senate Evacuation [https://codingcompetitions.withgoogle.com/codejam/round/0000000000201bef]
