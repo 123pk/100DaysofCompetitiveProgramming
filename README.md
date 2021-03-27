@@ -72,3 +72,9 @@ The main aim would be to prepare for **KICKSTART** , **ICPC** and **CODEJAM**.
 2. MATXOR [https://www.codechef.com/COOK127B]
 3. GUESSIT[https://www.codechef.com/COOK127B]
 4. Senate Evacuation [https://codingcompetitions.withgoogle.com/codejam/round/0000000000201bef]
+
+**Day13**
+
+1.Equal Elements [https://www.hackerearth.com/practice/basic-programming/bit-manipulation/basics-of-bit-manipulation/practice-problems/algorithm/equal-elements-2-db70c1ae/]
+2.Length of Valley [https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/hill-150045b2/]
+
