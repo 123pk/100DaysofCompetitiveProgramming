@@ -58,3 +58,11 @@ The main aim would be to prepare for **KICKSTART** , **ICPC** and **CODEJAM**.
 3. A - Difference max [https://atcoder.jp/contests/abc196/tasks/abc196_a]
 4. B - Round Down [https://atcoder.jp/contests/abc196/tasks/abc196_b]
 5. C - Doubled [https://atcoder.jp/contests/abc196/tasks/abc196_c]
+
+**Day11**
+
+1. A - Prison Break [https://codeforces.com/contest/1484/problem/A]
+2. K - Goodness String [https://codingcompetitions.withgoogle.com/kickstart/round/0000000000436140/000000000068cca3]
+3. Maximum Ascending Subarray Sum [https://leetcode.com/contest/weekly-contest-233]
+4. Number of Orders in backlog [https://leetcode.com/contest/weekly-contest-233]
+
