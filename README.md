@@ -85,5 +85,11 @@ The main aim would be to prepare for **KICKSTART** , **ICPC** and **CODEJAM**.
 2. Advantage shuffle [https://leetcode.com/problems/advantage-shuffle/]
 3. Reorder Power of 2 [https://leetcode.com/problems/reordered-power-of-2/]
 
+**Day15**
 
+1. A - Strange Table [https://codeforces.com/contest/1506/problem/A]
+2. B - Partial Replacement [https://codeforces.com/contest/1506/problem/B]
+3. C - Double Ended String [https://codeforces.com/contest/1506/problem/C]
+4. D - Epic Transformation [https://codeforces.com/contest/1506/problem/D]
+5. E - Restoring The Permutation [https://codeforces.com/contest/1506/problem/E]
 
