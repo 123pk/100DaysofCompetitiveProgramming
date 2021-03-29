@@ -76,5 +76,14 @@ The main aim would be to prepare for **KICKSTART** , **ICPC** and **CODEJAM**.
 **Day13**
 
 1.Equal Elements [https://www.hackerearth.com/practice/basic-programming/bit-manipulation/basics-of-bit-manipulation/practice-problems/algorithm/equal-elements-2-db70c1ae/]
+
 2.Length of Valley [https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/practice-problems/algorithm/hill-150045b2/]
+
+**Day14**
+
+1. Trouble Sort [https://codingcompetitions.withgoogle.com/codejam/round/00000000000000cb/00000000000079cb]
+2. Advantage shuffle [https://leetcode.com/problems/advantage-shuffle/]
+3. Reorder Power of 2 [https://leetcode.com/problems/reordered-power-of-2/]
+
+
 
