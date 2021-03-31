@@ -93,3 +93,8 @@ The main aim would be to prepare for **KICKSTART** , **ICPC** and **CODEJAM**.
 4. D - Epic Transformation [https://codeforces.com/contest/1506/problem/D]
 5. E - Restoring The Permutation [https://codeforces.com/contest/1506/problem/E]
 
+**Day16**
+
+1. Reversort [https://codingcompetitions.withgoogle.com/codejam/round/000000000043580a]
+2. Moons and Umbrellas [https://codingcompetitions.withgoogle.com/codejam/round/000000000043580a]
+3. Reversort Engineering [ https://codingcompetitions.withgoogle.com/codejam/round/000000000043580a]
