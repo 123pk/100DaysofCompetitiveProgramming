@@ -7,59 +7,48 @@ class Solution {
 public:
     int numDifferentIntegers(string word) {
         set<string>P;
-        string temp;
+        string temp,z;
+        int f=0;
         for(auto x:word){
-            if('0'<=x && x<='9'){
-                  
+            if(f){
+                if('0'<=x && x<='9'){
                     temp+=x;
+                }
+                else{
+                    if(temp.size()>1){
+                        
+                    }
+                    P.insert(temp);
+                    temp="";
+                    f=0;
+                }
             }
             else{
-                if(temp.size()){
-                    if(temp.size()==1){
-                        P.insert(temp);
+                if(x=='0'){
+                    z="";
+                    z+=x;
+                    
+                }
+                else{
+                    if('1'<=x && x<='9'){
+                        temp=x;
+                        z="";
+                        f=1;
                     }
                     else{
-                        string z;
-                     int f=0;
-                     for(int j=0;j<temp.size();++j){
-                         if(f){
-                             z+=temp[j];
-                         }
-                         else{
-                             if(temp[j]=='0')continue;
-                             else{
-                                 z+=temp[j];
-                                 f=1;
-                             }
-                         }
-                     }
-                     temp=z;
-                        P.insert(temp);
+                        if(z.size()==1){
+                            P.insert(z);
+                            z="";
+                        }
                     }
-                    
-                    temp="";
                 }
             }
         }
-        
-        if(temp.size()==1)P.insert(temp);
-        else if(temp.size()>1){
-            string z;
-                     int f=0;
-                     for(int j=0;j<temp.size();++j){
-                         if(f){
-                             z+=temp[j];
-                         }
-                         else{
-                             if(temp[j]=='0')continue;
-                             else{
-                                 z+=temp[j];
-                                 f=1;
-                             }
-                         }
-                     }
-                     temp=z;
-                        P.insert(temp);
+        if(temp.size()){
+            P.insert(temp);
+        }
+        if(z.size()){
+            P.insert(z);
         }
         return P.size();
     }
