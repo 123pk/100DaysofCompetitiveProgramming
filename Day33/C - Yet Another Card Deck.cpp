@@ -11,7 +11,7 @@ int main(){
     cin>>n>>q;
     
     vector<int>A(50);
-    for(int i=0;i<50;++i)A[i]=0;
+
     for(int i=0;i<n;++i){
         int x;
         cin>>x;
