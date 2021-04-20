@@ -1,6 +1,6 @@
 /*
 Platform :- Codechef
-Contest :- Codechef April Cook off 2021
+Contest :- Codechef April Cook off 2021 Div 2
 Problem :- OROFAND
 */
 #include<bits/stdc++.h>
