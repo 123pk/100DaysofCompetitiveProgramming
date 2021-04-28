@@ -2,6 +2,7 @@
 Platform :- Leetcode
 Problem :- Unique Path II
 Event :- Leetcode April Daily challenge
+Hint :-  Number of ways to reach any index (i,j) is sum of number of ways to reach to index (i-1,j) and index (i,j-1) valid indexes.
 */
 class Solution {
 public:
