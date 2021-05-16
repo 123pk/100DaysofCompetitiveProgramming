@@ -2,6 +2,7 @@
 Platform :- Leetcode
 Problem :- Minimum number of swaps to make binary string altering
 Contest :- Weekly contest 241
+Hint :- Try to make either odd position will all 1's or even position with all 0's with minimum cost
 */
 class Solution {
 public:
