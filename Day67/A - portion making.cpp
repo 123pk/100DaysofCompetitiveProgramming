@@ -1,6 +1,6 @@
 /*
 Platform :- Codeforces
-Contest :- Educationl round  109
+Contest :- Educationl round 109
 Problem :- A - portion making
 */
 
