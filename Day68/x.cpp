@@ -1,1 +1,4 @@
-
+/*
+Platform :- Codechef
+Problem :- 
+*/
