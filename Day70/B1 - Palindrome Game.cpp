@@ -2,6 +2,10 @@
 Platform :- Codeforces 
 Contest :- Codeforces Round #721
 Problem :- B1 Palindrome Game
+Hint :- For easy version we have palindromic string so following conditions satisfy 
+        i. if ( no_of_zeros %2 == 0 or no_or_zeros ==1) BOB will always win
+        ii. if (no_of_zeros %2 == 1)ALICE wins
+        iii. else DRAW
 */
 #include<bits/stdc++.h>
 using namespace std;
