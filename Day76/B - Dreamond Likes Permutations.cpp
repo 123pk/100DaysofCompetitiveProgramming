@@ -2,7 +2,11 @@
 Platform :- Codeofces 
 Contest :- Codeforces Round #631 (Div. 2) - Thanks, Denis aramis Shitov!
 Problem :- B  - Dreamond Likes Permutations
-
+Hint :- Few things about Permutaion
+            i. each element is atmost once in array
+            ii. no missing elemnt from [1 to n] if max is n
+            iii. sum of elements of permutation with 'n' elemnts is  [ ( n*(n+1))/2 ] 
+         
 */
 #include<bits/stdc++.h>
 using namespace std;
