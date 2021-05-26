@@ -4,7 +4,8 @@ contest :- 2020-2021 ICPC, NERC, Southern and Volga Russian Regional Contest (On
 Problem :- C - BerrPizza
 Approach :- i. Since Monocrap gets the customer who first visited ----> we can find who's next by just storing in vector and using a pointer that points at next guest
             ii. Polycrap prioritise on basis of money -->we can use priority queue of pairs storing { index , money } and sorting on basis of {money}
-            iii.  we need to maintain a list of index which are already served we will use { int c++ set } for storing already served guests so we will not serve them again
+            iii.  we need to maintain a list of index which are already served we will use { <set> in c++ } for storing already served guests so we will not serve them again
+                  in above two cases 
 
 */
 #include<bits/stdc++.h>
