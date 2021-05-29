@@ -6,67 +6,22 @@ Hint :- if index containing '0' is range of i+minJump to i+maxJump then we can r
 */
 class Solution {
 public:
-    bool canReach(string s, int minJump, int maxJump) {
-        int f=0;
-        
-        vector<int>temp;
-        for(int i=0;i<s.size();++i){
-            if(s[i]=='0')temp.push_back(i);
-        }
-        
-        int lo=0,hi=0;
-        int n=s.size();
-        int dp[n];
-        
-        for(int i=0;i<n;++i)dp[i]=0;
-        n--;
-        dp[temp[0]]=1;
-        lo=temp[0];
-        hi=temp[0];
-        
-        for(int i=0;i<temp.size();++i){
-            
-            if(dp[temp[i]]==0){
-               ///cout<<temp[i]<<" "<<lo<<" "<<hi<<endl;
-                if((lo<=temp[i] && temp[i]<=hi)){
-                    dp[temp[i]]=1;
-                    int z=temp[i]+maxJump;
-                    z=min(z,n);
-                    int z2=temp[i]+minJump;
-                
-                      if(z2<=z){
-                        if(s[z]=='0'){
-                    dp[z]=1;
-                    }
-                     hi=z;
-                    if(s[z2]=='0'){
-                       dp[z2]=1;
-                       
-                    }lo=z2; 
-                     }
-                }
+    bool canReach(string s, int mi, int ma) {
+        if(s.back()=='1')return false; 
+        // In case the last character is '1', we'll never be able to reach the end.
+        vector<bool>dp(s.size());
+        dp[0] = true;
+        int count = 0;
+        for(int i = 1; i<s.size(); i++){
+            if(i>ma){
+                count-=dp[i-ma-1]; //Moving sliding window forward by decrementing the count by the dp value of the index that is no longer in our window
             }
-            else{
-                int z=temp[i]+maxJump;
-                z=min(z,n);
-                int z2=temp[i]+minJump;
-                
-                if(z2<=z){
-                    if(s[z]=='0'){
-                     dp[z]=1; 
-                    }
-                    hi=z;
-                    if(s[z2]=='0'){
-                       dp[z2]=1;
-                       
-                    } lo=z2; 
-                   
-                }
+            if(i>=mi){
+                count+=dp[i-mi];
             }
-            
+            if(count>0&&s[i]=='0')dp[i] = true;
+            else dp[i] = false;
         }
-        
-         
-        return dp[n];
+        return dp.back();
     }
 };
