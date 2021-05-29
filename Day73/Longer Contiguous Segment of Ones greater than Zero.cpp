@@ -37,11 +37,13 @@ public:
                     k=max(k,c);
                     c=0;
                     d=1;
+                    l=max(l,d);
                 }
                 else{
                     l=max(l,d);
                     d=0;
                     c=1;
+                    k=max(k,c);
                 }
             }
         }
