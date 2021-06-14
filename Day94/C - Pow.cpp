@@ -8,3 +8,31 @@ Approach :- there are three cases
                       value which is positive has greater value
             Case 3 :- both negative same as case 1 
 */
+#include<bits/stdc++.h>
+using namespace std;
+
+int main(){
+
+    long long a,b,c;
+    cin>>a>>b>>c;
+    
+    if(a==b)cout<<"="<<endl;
+    else{
+        if(abs(a)==abs(b)){
+            if(c%2){
+                if(a>=0)cout<<'>'<<endl;
+                else cout<<'<'<<endl;
+            }
+            else cout<<"="<<endl;
+        }
+        else{
+             if(c%2==0){
+                a=abs(a);
+            b=abs(b);
+                
+            } 
+            if(a>b)cout<<">"<<endl;
+            else cout<<"<"<<endl;
+        }
+    }
+}
